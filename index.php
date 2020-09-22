@@ -6,6 +6,7 @@
         <script src="/js/bootstrap.min.js"></script>
     </head>
     <body>
+        <h1>This is demo projects</h1>
         <div class="jumbotron jumbotron-fluid text-center">
             <h1 class="display-2"> Forum</h1>
             <button class="btn btn-success" >Get Started</button>
